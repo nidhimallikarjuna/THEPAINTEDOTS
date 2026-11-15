@@ -1,15 +1,15 @@
-# 🎨 THE PAINTED DOTS
+#  THE PAINTED DOTS
 ### E-Commerce Platform for Handmade Mandala Art
 
 The Painted Dots is a full-stack e-commerce project showcasing handmade mandala art, personalised designs, and creative craftsmanship.
 
-## 🌸 Project Overview
+##  Project Overview
 
 The platform provides an interactive shopping experience where customers can explore handcrafted products, browse categories, manage shopping carts, and place orders.
 
 The project combines a React frontend with a Node.js and Express backend, using MySQL for relational database management and Redis for caching and temporary cart storage.
 
-## ✨ Key Features
+##  Key Features
 
 - Product catalogue and product browsing
 - Product details and categories
@@ -23,7 +23,7 @@ The project combines a React frontend with a Node.js and Express backend, using 
 - MySQL transactions and inventory management
 - DBMS reporting views, stored procedures and triggers
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technologies |
 |---|---|
@@ -36,7 +36,7 @@ The project combines a React frontend with a Node.js and Express backend, using 
 | Security | Helmet, CORS, Express Rate Limit |
 | Logging | Morgan |
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 THEPAINTEDOTS/
@@ -48,7 +48,7 @@ THEPAINTEDOTS/
 
 The backend ZIP contains the backend source code, SQL scripts, DBMS screenshots, ER diagram, configuration examples and documentation.
 
-## 🗄️ Database Management
+##  Database Management
 
 The MySQL database demonstrates:
 
@@ -69,7 +69,7 @@ Redis demonstrates:
 - Product response caching
 - Cache expiry and invalidation
 
-## 💻 Running the Frontend
+##  Running the Frontend
 
 1. Extract `thepainteddots-frontend-main.zip`.
 2. Open the extracted frontend folder in VS Code.
@@ -143,7 +143,7 @@ Health check:
 | Orders | `/api/orders` |
 | Admin Analytics | `/api/admin/analytics` |
 
-## 🔐 Security
+##  Security
 
 - Password hashing using bcryptjs
 - JWT-based authentication
@@ -153,7 +153,7 @@ Health check:
 - API rate limiting
 - Environment variables for sensitive credentials
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Complete frontend-to-backend API integration
 - Online payment gateway
@@ -161,13 +161,15 @@ Health check:
 - Enhanced order tracking
 - Additional custom design and review API functionality
 
-## 🎓 Academic Project
+##  Academic Project
 
 Developed as part of the Database Management Systems (DBMS) Mini Project at PES University, Department of Computer Science and Engineering.
 
 **Course:** UE23CS351A – DBMS Project  
 **Academic Period:** August – December 2026
 
-## 👩‍💻 Development Team
+##  Development Team
 
 The Painted Dots Development Team
+<img width="948" height="1160" alt="image" src="https://github.com/user-attachments/assets/0b33bff4-32fa-4dc5-bd66-62141880cd93" />
+
