@@ -69,6 +69,37 @@ Redis demonstrates:
 - Product response caching
 - Cache expiry and invalidation
 
+## 💻 Running the Frontend
+
+1. Extract `thepainteddots-frontend-main.zip`.
+2. Open the extracted frontend folder in VS Code.
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the frontend development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local URL displayed in your terminal (usually `http://localhost:5173`).
+
+The frontend runs independently from the backend.
+
+## 🔗 Running the Complete Application
+
+To run the complete application:
+
+- Start the MySQL database.
+- Start the Redis server.
+- Start the backend API using the backend setup instructions.
+- Start the frontend using the frontend setup instructions.
+
+The frontend and backend run in separate terminals.
+
 ## ⚙️ Running the Backend
 
 1. Extract `Painted_Dots_Backend.zip`.
